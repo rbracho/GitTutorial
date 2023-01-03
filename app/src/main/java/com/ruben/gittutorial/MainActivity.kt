@@ -9,5 +9,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         print("Este es una linea nueva")
         print("linea adicional")
+        print("linea adicional")
+        print("linea adicional")
+        print("linea adicional")
+        print("linea adicional")
+        print("linea adicional")
+        print("linea adicional")
     }
 }
