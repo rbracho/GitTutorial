@@ -7,6 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        print("Este es un otro ejemplo")
+        print("Este es una linea nueva")
+        print("linea adicional")
     }
 }
